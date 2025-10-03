@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <title>Enjoy Tomorrow's Website</title>
     <style>
       
     </style>
